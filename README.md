@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @De-Kurbel
-- 👀 I’m interested in Discord, Strategy Games, other things
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Hiking, Diving and other things
 - 📫 How to reach me: Discord De_Kurbel#7355
 
 <!---
